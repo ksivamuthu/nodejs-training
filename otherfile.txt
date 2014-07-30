@@ -1,0 +1,10 @@
+2014-07-24 07:30:01.5747 TRACE Parsing the arguments
+2014-07-24 07:30:01.6683 TRACE The verb crawl is passed
+2014-07-24 07:30:36.7240 WARN FTP Crawl Complete-FTP Crawl - No Empty Items Found-GREEN ALERT 
+FTP Crawl Complete - acttab
+2014-07-24 07:30:36.7240 WARN FTP Crawl Complete-FTP Crawl - No Empty Items Found-GREEN ALERT 
+FTP Crawl Complete - Adolfo
+2014-07-24 07:30:36.7240 WARN FTP Crawl Complete-FTP Crawl - Empty Items Found-YELLOW ALERT 
+FilePath: \\hv.amtote.com\ftpserver\ftproot\Alberta\ALDN_odb_140723.zip\ALDN_aa140723.odb - Created At: 7/24/2014 9:05:17 AM
+FilePath: \\hv.amtote.com\ftpserver\ftproot\Alberta\ALDN_odb_140723.zip\ALDN_ar140723.odb - Created At: 7/24/2014 8:43:46 AM
+FilePath: \\hv.amtote.com\ftpserver\ftproot\Alberta\ALDN_odb_140723.zip\ALDN_as140723.odb - Created At: 7/24/2014 9:05:17 AM

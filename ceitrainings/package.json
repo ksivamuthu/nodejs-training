@@ -1,0 +1,14 @@
+{
+  "name": "ceitrainings",
+  "version": "0.0.0",
+  "description": "CEI Trainings NodeJS Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siva",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.7.2"
+  }
+}
